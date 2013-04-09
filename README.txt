@@ -1,0 +1,1 @@
+En esta carpeta iré colgando todos los ejercicios que haga en el lenguaje Python, para que ustedes vean cómo es la estructura y la sintáxis que pose dicho lenguaje.
